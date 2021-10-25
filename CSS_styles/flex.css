@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.square {
+    width: 80px;
+    height: 50px;
+    padding-left: 0%;
+    margin: 0%;
+}
+
+.coloruno {
+    background-color: rgb(138, 29, 89);
+}
+
+.colordos {
+    background-color: palegreen;
+}
