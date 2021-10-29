@@ -1,9 +1,6 @@
 ///como sumar solo numeros en un array con strings i numeros?
 
 let lista = ["cosa", 3, 5, "trasto", 5];
-
-///esto porque se pone?:
-
 let suma = 0;
 
 // necesitaremos el operador **typeof** que nos devuelve el tipo de dato que es
