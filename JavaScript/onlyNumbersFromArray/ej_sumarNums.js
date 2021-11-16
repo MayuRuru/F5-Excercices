@@ -13,7 +13,7 @@ for (let i = 0; i < lista.length; i++) {
 }
 console.log(suma);
 
-//// otra forma
+/* otra forma
 
 let lista = ["cosa", 3, 5, "trasto", 5];
 let suma = 0;
@@ -25,4 +25,4 @@ for (let item of list) {
 }
 console.log(suma);
 
-//// item esta 'predeterminado'?
+*/ 
